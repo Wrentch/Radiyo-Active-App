@@ -1,0 +1,8 @@
+{
+  "name": "RadiYo Active",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
